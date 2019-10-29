@@ -64,4 +64,4 @@ print("Packages successfully imported")
 
 
 ### Overview
-![](sketech.png)
+![](sketch.png)
